@@ -6,4 +6,4 @@ router.get('/bebidas', (req, res)=>{
     res.json({mensaje:"Hola Mundo"})
 })
 
-module.exports=router
+module.exports=router;
